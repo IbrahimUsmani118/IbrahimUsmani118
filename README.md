@@ -1,20 +1,36 @@
-
-Absolutely, let's give your profile a more human touch with emojis and a playful style in fonts and sizes!
-
 Ibrahim Usmani
-Passionate about Data Analysis and Cybersecurity | Open to Collaborations | Tech Writer
+📧 Email: onlyibrahim13@gmail.com | 📞 Phone: (732) 890-8125
+🔗 LinkedIn: Ibrahim Usmani | 💻 GitHub: IbrahimUsmani118
 
-About Me
-Hey there! 🚀 I'm Ibrahim, a tech enthusiast dedicated to leveraging technology's magic to craft impactful solutions in Data Analysis and Cybersecurity. My journey is a blend of a robust programming foundation and an unyielding passion for advanced data structures, allowing me to tackle the juiciest challenges in the digital world.
+Summary
+Data Analyst/Software Engineer skilled in data encryption, API solutions, and SDLC compliance. Proven in boosting application performance and stakeholder satisfaction across industries.
 
-Projects Highlights
-JS Data Generator MongoDB: Crafted a Python tool crucial for generating essential test data, bridging the gap between JavaScript apps and MongoDB databases. 💡
-Network Utility: Designed versatile Python utilities for extracting web data, subnetting, and managing IP addresses, boosting networking prowess. 🌐
-CPU Scheduling Algorithms: Demonstrated expertise in OS concepts by implementing intricate scheduling algorithms in Java, mastering system operations. ⚙️
-Data Predictor: Leveraged TensorFlow and pandas to predict valuable insights from data, using advanced ML techniques for predictive analysis. 🤖
+Experience
+NJPC, Elizabeth, NJ
+Data Analyst/Software Engineer
+- Reduced latency by 30% through server enhancements.
+- Increased data throughput by 40% by adhering to coding standards.
+- Implemented 95% data encryption across multiple sources.
+TargetArc, NJ
+Semantic Engineer
+- Led Node.js & Express.js app dev, increasing responsiveness by 25%.
+- Achieved 90% stakeholder satisfaction, reducing bug resolution time by 80%.
+- Improved response latency by 20% in database systems.
 
-Tech Insights & Collaborations
-Beyond my projects, I'm an enthusiastic writer, diving deep into various tech topics on LinkedIn. Seeking collaborations that break boundaries in Data Analysis or Cybersecurity, I'm excited to dive into innovative projects. If you're exploring new ideas or need expertise in these areas, let's connect and explore synergies for groundbreaking solutions. 🌟
+Projects
+- DataPredictor: Utilized TensorFlow and pandas for predictive analysis.
+- WebBrowserUtilityiOS: Developed a Swift-based web hub for seamless browsing.
+- Network-Utility: Proficient in network programming and data extraction.
 
-Let's Connect
-Drop me a message on LinkedIn to chat about potential collaborations, geek out over tech insights, or brainstorm how our collaboration can shape game-changing solutions. 📩
+Skills
+- Data Analysis & Engineering: Python (Pandas, Numpy), Java, JavaScript, SQL, TensorFlow, AWS.
+- Database Management & Optimization: MongoDB, Node.js/Express.js optimization.
+- Agile Methodologies & Project Management: Agile/Scrum, API integration.
+- Information Security & Encryption: Robust data encryption, SDLC compliance.
+
+Certifications
+- Professional Google Data Analytics Certificate - Coursera
+- Introduction to Artificial Intelligence with AWS - Coursera
+
+Education
+- Bachelor’s in Computer Science from Rutgers University, New Jersey
