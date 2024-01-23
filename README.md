@@ -11,6 +11,7 @@ Data Analyst/Software Engineer
 - Reduced latency by 30% through server enhancements.
 - Increased data throughput by 40% by adhering to coding standards.
 - Implemented 95% data encryption across multiple sources.
+
 TargetArc, NJ
 Semantic Engineer
 - Led Node.js & Express.js app dev, increasing responsiveness by 25%.
