@@ -3,7 +3,6 @@ Ibrahim Usmani
 📧 Email: onlyibrahim13@gmail.com
 📞 Phone: (732) 890-8125
 🔗 LinkedIn: Ibrahim Usmani
-💻 GitHub: IbrahimUsmani118
 🌐 CodeChef: onlyibrahim13
 
 Summary
