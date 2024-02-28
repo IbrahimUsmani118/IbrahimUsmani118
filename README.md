@@ -1,14 +1,19 @@
 Ibrahim Usmani
 
 📧 Email: onlyibrahim13@gmail.com
+
 📞 Phone: (732) 890-8125
+
 🔗 LinkedIn: Ibrahim Usmani
+
 🌐 CodeChef: onlyibrahim13
 
 Summary
+
 Enthusiastic Data Engineer with a proven track record in developing, testing, and deploying high-quality software at scale. A collaborative leader adept at driving technical decisions and taking ownership of complex system components. Seeking a challenging role in Data Engineering to leverage my skills and contribute to innovative solutions.
 
 Education
+
 Rutgers University – New Jersey
 
 Graduated: May 2023
