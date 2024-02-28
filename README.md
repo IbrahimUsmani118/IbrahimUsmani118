@@ -7,7 +7,7 @@ Data Analyst/Software Engineer skilled in data encryption, API solutions, and SD
 
 Experience
 NJPC, Elizabeth, NJ
-Data Analyst/Software Engineer
+Data Analyst/Engineer
 - Reduced latency by 30% through server enhancements.
 - Increased data throughput by 40% by adhering to coding standards.
 - Implemented 95% data encryption across multiple sources.
