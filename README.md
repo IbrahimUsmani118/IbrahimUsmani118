@@ -5,7 +5,8 @@ Ibrahim Usmani
 🔗 LinkedIn: Ibrahim Usmani
 💻 GitHub: IbrahimUsmani118
 🌐 CodeChef: onlyibrahim13
-**Summary
+
+Summary
 Enthusiastic Data Engineer with a proven track record in developing, testing, and deploying high-quality software at scale. A collaborative leader adept at driving technical decisions and taking ownership of complex system components. Seeking a challenging role in Data Engineering to leverage my skills and contribute to innovative solutions.
 
 Education
