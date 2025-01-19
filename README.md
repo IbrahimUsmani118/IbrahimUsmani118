@@ -53,5 +53,3 @@ Data-Predictor: Proficient in TensorFlow and pandas for advanced predictive anal
 Network-Utility: Expertise in network programming and data extraction.
 WebBrowserUtilityiOS: Proficiency in Swift for crafting a seamless web hub on iOS devices. Demonstrates the ability to learn new technologies quickly and an understanding of good software design principles.
 Database Referral System: A PythonQT project with integrated Node and Express JS modules for efficient database management and referrals.
-WebBrowserUtilityiOS: Proficiency in Swift for crafting a seamless web hub on iOS devices. Demonstrates the ability to learn new technologies quickly and an understanding of good software design principles.
-Database Referral System: A PythonQT project with integrated Node and Express JS modules for efficient database management and referrals.
