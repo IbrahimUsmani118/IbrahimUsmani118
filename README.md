@@ -56,7 +56,7 @@ Capital One/Cognizant, McLean VA
 
 
 
-Software Engineer (July 2024 - Current)
+Software Engineer (July 2024 - Feb 2024)
 
 
 
