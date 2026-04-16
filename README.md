@@ -1,70 +1,41 @@
-Ibrahim Usmani
+# Hi, I’m Ibrahim Usmani 👋
 
-- Contact Information
-- Email: onlyibrahim13@gmail.com
-- Phone: (732) 890-8125
-- LinkedIn: in/ibrahim-usmani
+**AI/ML Engineer & Full-Stack Developer**
 
-Summary
+[cite_start]I specialize in building scalable SaaS platforms, real-time ML APIs, and cloud-native solutions[cite: 20]. My work focuses on the intersection of technical feasibility and business strategy, specifically in high-performance systems and automated compliance engines.
 
-Skilled in JavaScript, React.js, Next.js, and Python with a strong background in building modern, scalable web interfaces and data engineering solutions. Experienced in integrating front-end applications with back-end services, optimizing performance for large datasets, and leveraging cloud-based data architectures. Passionate about AI, cybersecurity, and data-driven solutions in the healthcare industry.
+### 🛠️ Core Focus
+* **AI/ML Systems:** Specialized in retrieval-augmented generation (RAG) and perceptual hashing applications.
+* [cite_start]**Performance Engineering:** Proven track record of reducing inference latency by **30%** and improving feature delivery speed by **50%**[cite: 21].
+* **Infrastructure:** Implementing "Dual-Node" frameworks, decoupling frontend development on macOS from intensive backend/ML tasks on specialized hardware.
 
-Technical Expertise: JavaScript, React.js, Next.js, Python
-Core Skills: Scalable web development, cloud-based data architectures, data engineering
-Strengths: API integration, performance optimization, cybersecurity, AI-driven solutions
-Industry Focus: Healthcare, AI, cybersecurity, and data-driven solutions
-Education
-Rutgers University – New Jersey
-Bachelor’s in Computer Science
-Graduated: May 2023
+### 🚀 Projects In Development
+* **Bundi/Kitab:** A suite of applications utilizing AI-powered filtering for content safety.
+* **Vigil (BrandGuard):** An automated compliance engine utilizing perceptual hashing to protect brand integrity.
 
-Work Experience
-Capital One/Cognizant, McLean, VA
-Software Engineer
-July 2024 – February 2025
+### 💻 Technical Toolkit
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | [cite_start]Python, TypeScript, JavaScript, Java, SQL, R [cite: 17, 20, 22] |
+| **AI/ML** | TensorFlow, Retrieval-Augmented Generation (RAG), Perceptual Hashing |
+| **Backend/Cloud** | [cite_start]AWS (Lambda, S3, EC2, DynamoDB), Azure (Functions, WebApps), Node.js [cite: 20, 22, 27] |
+| **Frontend** | React.js, Next.js, UI/UX translation |
+| **Tools/DevOps** | Git, CI/CD Optimization, Databricks, Pinecone |
 
-- Developed scalable front-end components using React.js and Next.js, ensuring responsive and interactive user experiences.
-- Integrated APIs and real-time data streams into web applications for seamless backend communication.
-- Optimized performance for large-scale enterprise applications by reducing load times and enhancing interactivity.
-- Utilized SQL queries in DBeaver to search and analyze service IDs, thereby improving database efficiency.
-- Implemented secure authentication and authorization protocols to protect sensitive user data.
-- Conducted performance testing and debugging to enhance application reliability and maintainability.
+### 🎓 Education & Certifications
+* [cite_start]**Masters Certificate in AI/ML:** New Jersey Institute of Technology (Expected May 2026)[cite: 81].
+* [cite_start]**B.A. in Computer Science:** Rutgers University (Minor in Data Science)[cite: 83].
+* [cite_start]**AWS Certified AI Practitioner**[cite: 15, 18].
+* [cite_start]**Generative AI for Business Leaders**[cite: 11].
 
-New Jersey Parent’s Caucus, Elizabeth, NJ
-Data Engineer-Analyst
-May 2023 – April 2024
+### 📊 Professional Impact
+* [cite_start]**Tech Mahindra (Software Engineer II):** Architected metadata viewer POCs using Azure Portal WebApps and Databricks migrations to ensure data lineage consistency[cite: 27, 28].
+* [cite_start]**Capital One:** Engineered cloud-integrated backend systems and automated testing workflows, reducing QA hours by **40%**[cite: 22, 37].
+* [cite_start]**TargetArc:** Led development for healthcare data portals, achieving a **90%** stakeholder satisfaction rate[cite: 68].
 
-- Designed and built data pipelines to process, transform, and analyze large-scale datasets efficiently.
-- Developed secure web applications and modernized legacy systems using JavaScript, React.js, and Python.
-- Collaborated with cross-functional teams to deliver actionable data insights for strategic decision-making.
-- Created a robust database system to facilitate efficient management and access to critical data.
-- Performed data quality checks, cleansing, and validation to ensure analytics accuracy.
-- Designed dashboards and reports to visualize key performance metrics for executive leadership.
+---
 
-TargetArc, Remote
-Semantic Engineer Intern
-June 2023 – September 2023
-
-- Built dynamic applications with React.js and Node.js, improving responsiveness by 25%.
-- Applied Agile methodologies to deliver flexible, robust front-end solutions.
-- Leveraged Git for version control and deployed API-driven solutions to streamline workflows.
-- Developed automated scripts to process and classify semantic data efficiently.
-- Collaborated with data scientists to enhance machine learning models through improved feature engineering.
-- Assisted in implementing a microservices architecture to boost system scalability.
-
-Skills & Technical Experience
-- Programming Languages: JavaScript, Python, SQL, R
-- Frontend Development: React.js, Next.js, HTML, CSS
-- Backend Development: RESTful APIs, Node.js, Express.js
-- Testing & Quality Assurance: Cypress, Jest, Diffblue for automated testing
-- Data Handling & Security: Real-time data streams, API integrations, secure data communication
-- Optimization: Enhancing web application performance for large-scale AI datasets
-- Collaboration: Translating UI/UX designs into functional web interfaces
-- Tools: Git, WebSockets, Agile/Scrum methodologies
-
-Projects
-- Data-Predictor: Utilized TensorFlow and pandas for advanced predictive analysis.
-- Network-Utility: Demonstrated expertise in network programming and data extraction.
-- WebBrowserUtilityiOS: Developed a seamless web hub for iOS devices using Swift.
-- Database Referral System: Built a PythonQT project with integrated Node and Express.js modules for efficient database management and referrals.
-
+### 📫 Connect with Me
+* [cite_start]**LinkedIn:** [in/ibrahim-usmani](https://www.linkedin.com/in/ibrahim-usmani) [cite: 3, 4]
+* [cite_start]**Email:** [onlyibrahim13@gmail.com](mailto:onlyibrahim13@gmail.com) [cite: 2]
+* **Location:** Piscataway, NJ / NYC Metropolitan Area
