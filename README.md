@@ -2,7 +2,7 @@
 
 **AI/ML Engineer & Full-Stack Developer**
 
-[cite_start]I specialize in building scalable SaaS platforms, real-time ML APIs, and cloud-native solutions[cite: 20]. My work focuses on the intersection of technical feasibility and business strategy, specifically in high-performance systems and automated compliance engines.
+I specialize in building scalable SaaS platforms, real-time ML APIs, and cloud-native solutions. My work focuses on the intersection of technical feasibility and business strategy, specifically in high-performance systems and automated compliance engines.
 
 ### 🛠️ Core Focus
 * **AI/ML Systems:** Specialized in retrieval-augmented generation (RAG) and perceptual hashing applications.
